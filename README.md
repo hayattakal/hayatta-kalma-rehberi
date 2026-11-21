@@ -40,7 +40,7 @@ El feneri ve SOS, Mors çevirici, düdük, KPR ritmi, pusula ve GPS, Türkiye ha
 
 ## Çocuk köşesi
 
-Telif hakkı süresi dolmuş dünya masalları ve fabllar (Türkçe yeniden anlatım), Nasreddin Hoca fıkraları, bilmeceler ve ilginç bilgiler.
+Telif hakkı süresi dolmuş dünya masalları (Grimm, Andersen, Perrault, Binbir Gece, Dede Korkut ve Keloğlan) asıllarına yakın uzunlukta, çocuklara uygun bir dille yeniden anlatıldı. Ayrıca Ezop fablları, Nasreddin Hoca fıkraları, bilmeceler, oyunlar ve ilginç bilgiler var.
 
 ## Önemli uyarı
 
@@ -98,7 +98,7 @@ Flashlight and SOS, Morse translator, whistle, CPR rhythm, compass and GPS, worl
 
 ## Kids' Corner
 
-Public-domain fairy tales and fables retold in plain English, Nasreddin Hodja stories, riddles, tongue twisters, games and fun facts.
+Public-domain fairy tales (Grimm, Andersen, Perrault, the Arabian Nights, Dede Korkut and Turkish Keloğlan tales) retold at close to their original length in child-friendly English, plus Aesop's fables, Nasreddin Hodja stories, riddles, tongue twisters, games and fun facts.
 
 ## Important
 
