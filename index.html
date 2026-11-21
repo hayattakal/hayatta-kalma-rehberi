@@ -226,6 +226,7 @@ body.red .ill *{filter:none}
  <div id="settings">
   <div class="row"><span>Yazı boyutu</span><span><button id="fsm">A−</button> <button id="fsp">A+</button></span></div>
   <div class="row"><span>Görünüm</span><span><button data-th="dark">Koyu</button> <button data-th="light">Açık</button> <button data-th="red">Gece (kırmızı)</button></span></div>
+  <div class="row"><span>Dil / Language</span><span><a href="en/" style="background:var(--card2);color:var(--tx);border:1px solid var(--line);border-radius:9px;padding:8px 12px;font-size:15px;text-decoration:none">🇬🇧 English</a></span></div>
   <div class="foot" style="margin-top:6px">Gece (kırmızı) modu karanlıkta gözünün karanlığa alışmasını bozmaz ve pil tasarrufu sağlar.</div>
  </div>
  <input id="q" type="search" placeholder="Ara: su arıtma, kanama, izbarço, akü…" autocomplete="off" autocorrect="off" spellcheck="false">
@@ -4157,7 +4158,7 @@ function viewHome(){
  h += `<a class="tile" href="#kartim" style="border-color:var(--bad)"><div class="e an">🪪</div><b>Acil Durum Kartım</b><small>Aile bilgileri, kan grupları, buluşma noktaları</small></a>`;
  h += `<a class="tile kids" href="#cocuk"><div class="e an">🧸</div><b>Çocuk Köşesi</b><small>Masallar, fabllar, Nasreddin Hoca, bilmeceler, oyunlar</small></a>`;
  h += `<a class="tile map" href="#harita"><div class="e">🗺️</div><b>Dünya Haritası</b><small>Ülkeler ve başkentler, internetsiz</small></a>`;
- h += `</div><p class="foot">Bu rehber internet bağlantısı olmadan çalışır. Bilgiler genel amaçlıdır ve eğitimli bir sağlık çalışanının, AFAD'ın veya yetkililerin talimatlarının yerini tutmaz. Acil durumda mümkünse <b>112</b>'yi ara.</p>`;
+ h += `</div><p class="foot">Bu rehber internet bağlantısı olmadan çalışır. Bilgiler genel amaçlıdır ve eğitimli bir sağlık çalışanının, AFAD'ın veya yetkililerin talimatlarının yerini tutmaz. Acil durumda mümkünse <b>112</b>'yi ara.</p><p class="foot" style="text-align:center"><a href="en/">🇬🇧 English version</a></p>`;
  main.innerHTML = h;
  const qr=$("#qr"); if(qr) qr.onclick=()=>{QUICK=pickQuick();viewHome();};
 }

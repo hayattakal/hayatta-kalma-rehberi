@@ -6,6 +6,8 @@ Deprem, savaş, sel, uzun süreli elektrik kesintisi gibi durumlarda telefonunuz
 
 👉 **Uygulamayı açın:** https://hayattakal.github.io/hayatta-kalma-rehberi/
 
+🇬🇧 **English version:** https://hayattakal.github.io/hayatta-kalma-rehberi/en/ ([jump to English](#english))
+
 <p>
 <img src="ekran/anasayfa.png" width="180" alt="Ana sayfa">
 <img src="ekran/elektrik.png" width="180" alt="Elektriğe ulaşım">
@@ -51,3 +53,61 @@ Bu rehber genel bilgi amaçlıdır. Doktor, veteriner, elektrikçi veya resmî a
 ## Katkı
 
 Hata bildirmek veya konu önermek için [Issues](../../issues) bölümünü kullanabilirsiniz.
+
+
+---
+
+<a id="english"></a>
+# 🇬🇧 Survival Guide (English)
+
+**A free survival and disaster guide that works without the internet.**
+
+A handbook you can open on your phone with no connection during an earthquake, war, flood or long power cut. It is a single HTML file: no install, no ads, no tracking.
+
+👉 **Open the app:** https://hayattakal.github.io/hayatta-kalma-rehberi/en/
+
+<p>
+<img src="ekran/en-home.png" width="180" alt="Home">
+<img src="ekran/en-article.png" width="180" alt="Article">
+<img src="ekran/en-kids.png" width="180" alt="Kids' Corner">
+<img src="ekran/en-phrasebook.png" width="180" alt="Phrasebook">
+</p>
+
+## Install on your phone
+
+**iPhone (Safari):** open the link → Share → **Add to Home Screen**. Open it once while online and browse a few pages; after that it works in airplane mode.
+
+**Android (Chrome):** open the link → ⋮ menu → **Add to Home screen / Install app**.
+
+**No internet at all:** download `en/index.html`, copy it to your phone or computer and open it in a browser.
+
+## What's inside
+
+- **424 articles in 46 sections, 85 illustrations and animations**
+- Getting and generating electricity (DC/AC motors, water, wind, solar, pedal power, batteries, diodes, scavenging parts)
+- Disasters and war, building shelters, nuclear and chemical threats, protection
+- First aid, illnesses, herbal remedies, psychological resilience, family health
+- Finding and purifying water, fire, shelter, climate, mountains and water safety
+- Edible and poisonous plants, hunting and trapping, nutrition, gardening, livestock, food storage
+- Primitive skills, knots, building, repairs, weaving, simple machines
+- Communication, navigation, map reading, community organization
+
+## Tools
+
+Flashlight and SOS, Morse translator, whistle, CPR rhythm, compass and GPS, world and Türkiye maps, calculators, supply and medicine trackers, log, sunrise and moon phase, emergency card, phrasebook (Turkish, German, French, Arabic, Persian, Russian), quizzes, scenarios and read-aloud.
+
+## Kids' Corner
+
+Public-domain fairy tales and fables retold in plain English, Nasreddin Hodja stories, riddles, tongue twisters, games and fun facts.
+
+## Important
+
+This guide is for general information. It does not replace a doctor, vet, electrician or official emergency services (112 in Europe and Türkiye, 911 in North America). Always get professional help when you can and follow official warnings.
+
+## Sources
+
+Content is based on general information from public sources such as AFAD, FEMA and Ready.gov, the CDC, the World Health Organization (WHO) and the US FDA, rewritten in plain language. It was originally written in Turkish and translated into English. Türkiye map: turkey-map-react (MIT); province data: memleketim-tr-cities (MIT). All illustrations were made for this project.
+
+## Contributing
+
+Report errors or suggest topics in [Issues](../../issues).
