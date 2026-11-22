@@ -25,7 +25,7 @@ Deprem, savaş, sel, uzun süreli elektrik kesintisi gibi durumlarda telefonunuz
 
 ## İçerik
 
-- **428 konu, 46 bölüm, 88 çizim ve animasyon**
+- **432 konu, 46 bölüm, 88 çizim ve animasyon**
 - Elektriğe ulaşım ve üretim (DC/AC motor, su, rüzgâr, güneş, pedal, akü, diyot ve parça bulma rehberi)
 - Afet ve savaş, sığınak yapımı, nükleer ve kimyasal tehdit, korunma
 - İlk yardım, hastalıklar, bitkisel çözümler, psikolojik dayanıklılık, aile sağlığı
@@ -50,9 +50,9 @@ Bu rehber genel bilgi amaçlıdır. Doktor, veteriner, elektrikçi veya resmî a
 
 İçerik; AFAD, FEMA ve Ready.gov, CDC, Dünya Sağlık Örgütü (WHO), ABD FDA ve Sığınak Yönetmeliği gibi kamuya açık kaynaklardaki genel bilgiler esas alınarak, sade Türkçeyle yeniden yazılmıştır. Türkiye haritası: turkey-map-react (MIT), il bilgileri: memleketim-tr-cities (MIT). Bütün çizimler bu proje için hazırlanmıştır.
 
-## Katkı
+## Katkı ve hata bildirimi
 
-Hata bildirmek veya konu önermek için [Issues](../../issues) bölümünü kullanabilirsiniz.
+Uygulamadaki her konunun altında bir **Hata bildir** düğmesi var. Düğme, konu adını içeren hazır bir e-posta açar. Hata ve önerilerinizi doğrudan **dr.ozayapps@gmail.com** adresine de yazabilir ya da [Issues](../../issues) bölümünü kullanabilirsiniz.
 
 
 ---
@@ -83,7 +83,7 @@ A handbook you can open on your phone with no connection during an earthquake, w
 
 ## What's inside
 
-- **428 articles in 46 sections, 88 illustrations and animations**
+- **432 articles in 46 sections, 88 illustrations and animations**
 - Getting and generating electricity (DC/AC motors, water, wind, solar, pedal power, batteries, diodes, scavenging parts)
 - Disasters and war, building shelters, nuclear and chemical threats, protection
 - First aid, illnesses, herbal remedies, psychological resilience, family health
@@ -108,6 +108,6 @@ This guide is for general information. It does not replace a doctor, vet, electr
 
 Content is based on general information from public sources such as AFAD, FEMA and Ready.gov, the CDC, the World Health Organization (WHO) and the US FDA, rewritten in plain language. It was originally written in Turkish and translated into English. Türkiye map: turkey-map-react (MIT); province data: memleketim-tr-cities (MIT). All illustrations were made for this project.
 
-## Contributing
+## Contributing and reporting mistakes
 
-Report errors or suggest topics in [Issues](../../issues).
+Every article in the app has a **Report a mistake** button that opens a ready-made email with the article name. You can also write directly to **dr.ozayapps@gmail.com** or use [Issues](../../issues).
