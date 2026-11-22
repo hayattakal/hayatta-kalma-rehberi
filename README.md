@@ -46,6 +46,10 @@ Telif hakkı süresi dolmuş dünya masalları (Grimm, Andersen, Perrault, Binbi
 
 Bu rehber genel bilgi amaçlıdır. Doktor, veteriner, elektrikçi veya resmî afet kurumlarının (AFAD, 112) yerini tutmaz. Mümkün olduğunda her zaman profesyonel yardım alın ve resmî uyarıları izleyin.
 
+## Gizlilik
+
+Rehber hiçbir kişisel veri toplamaz. Hesap, reklam, analiz ya da takip aracı yoktur. Ayrıntılar: [Gizlilik politikası](https://hayattakal.github.io/hayatta-kalma-rehberi/gizlilik.html)
+
 ## Kaynaklar ve teşekkür
 
 İçerik, kamuya açık kaynaklardaki bilgiler esas alınarak sade Türkçeyle yeniden yazılmıştır. Tam liste uygulamadaki **Bu rehberin dayandığı kaynaklar** konusunda yer alır ve her güncellemede yenilenir (son güncelleme: 22 Kasım 2026).
@@ -110,6 +114,10 @@ Public-domain fairy tales (Grimm, Andersen, Perrault, the Arabian Nights, Dede K
 ## Important
 
 This guide is for general information. It does not replace a doctor, vet, electrician or official emergency services (112 in Europe and Türkiye, 911 in North America). Always get professional help when you can and follow official warnings.
+
+## Privacy
+
+The guide collects no personal data. There are no accounts, ads, analytics or trackers. Details: [Privacy policy](https://hayattakal.github.io/hayatta-kalma-rehberi/en/privacy.html)
 
 ## Sources
 
