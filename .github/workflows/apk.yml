@@ -5,6 +5,9 @@ on:
     branches: [android]
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -44,3 +47,14 @@ jobs:
         with:
           name: hayatta-kal-deneme-apk
           path: android/app/build/outputs/apk/debug/app-debug.apk
+
+      - name: APK'yı "apk" dalına koy (doğrudan indirme bağlantısı için)
+        run: |
+          mkdir cikti && cp android/app/build/outputs/apk/debug/app-debug.apk cikti/hayatta-kal-deneme.apk
+          cd cikti
+          git init -q -b apk
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add hayatta-kal-deneme.apk
+          git commit -qm "Deneme APK'sı (${GITHUB_SHA::7})"
+          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}" apk
