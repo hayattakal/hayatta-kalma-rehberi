@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Hayatta Kal</string>
+    <string name="title_activity_main">Hayatta Kal</string>
+    <string name="package_name">com.drozayapps.hayattakal</string>
+    <string name="custom_url_scheme">com.drozayapps.hayattakal</string>
+</resources>

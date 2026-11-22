@@ -1,0 +1,9 @@
+{
+  "appId": "com.drozayapps.hayattakal",
+  "appName": "Hayatta Kal",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false,
+    "backgroundColor": "#14171a"
+  }
+}

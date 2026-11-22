@@ -1,0 +1,17 @@
+{
+  "name": "hayatta-kalma-android",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Hayatta Kalma Rehberi - Android (Capacitor) paketi",
+  "scripts": {
+    "hazirla": "node hazirla.js && npx cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.6.2",
+    "@capacitor/app": "^8.1.2",
+    "@capacitor/core": "^8.6.2"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^8.6.2"
+  }
+}
