@@ -20,7 +20,7 @@ function duzelt(html, dilKodu) {
   let n = 0;
   const rep = (a, b) => { const k = html.split(a).length - 1; n += k; html = html.split(a).join(b); return k; };
   // Uygulama içinde servis çalışanına gerek yok (dosyalar zaten pakette).
-  if (!rep('navigator.serviceWorker.register("sw.js").catch(()=>{});', '')) throw new Error('SW kaydı bulunamadı');
+  if (!rep('navigator.serviceWorker.register("sw.js").catch(()=>{});', 'void 0;')) throw new Error('SW kaydı bulunamadı');
   // Klasör bağlantıları paket içinde index.html'e gitmeli.
   if (dilKodu === 'tr') rep('href="en/"', 'href="en/index.html"');
   else rep('href="../"', 'href="../index.html"');
