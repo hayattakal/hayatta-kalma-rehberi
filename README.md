@@ -25,7 +25,7 @@ Deprem, savaş, sel, uzun süreli elektrik kesintisi gibi durumlarda telefonunuz
 
 ## İçerik
 
-- **432 konu, 46 bölüm, 88 çizim ve animasyon**
+- **431 konu, 46 bölüm, 88 çizim ve animasyon**
 - Elektriğe ulaşım ve üretim (DC/AC motor, su, rüzgâr, güneş, pedal, akü, diyot ve parça bulma rehberi)
 - Afet ve savaş, sığınak yapımı, nükleer ve kimyasal tehdit, korunma
 - İlk yardım, hastalıklar, bitkisel çözümler, psikolojik dayanıklılık, aile sağlığı
@@ -94,7 +94,7 @@ A handbook you can open on your phone with no connection during an earthquake, w
 
 ## What's inside
 
-- **432 articles in 46 sections, 88 illustrations and animations**
+- **431 articles in 46 sections, 88 illustrations and animations**
 - Getting and generating electricity (DC/AC motors, water, wind, solar, pedal power, batteries, diodes, scavenging parts)
 - Disasters and war, building shelters, nuclear and chemical threats, protection
 - First aid, illnesses, herbal remedies, psychological resilience, family health
