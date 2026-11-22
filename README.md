@@ -48,7 +48,14 @@ Bu rehber genel bilgi amaçlıdır. Doktor, veteriner, elektrikçi veya resmî a
 
 ## Kaynaklar ve teşekkür
 
-İçerik; AFAD, FEMA ve Ready.gov, CDC, Dünya Sağlık Örgütü (WHO), ABD FDA ve Sığınak Yönetmeliği gibi kamuya açık kaynaklardaki genel bilgiler esas alınarak, sade Türkçeyle yeniden yazılmıştır. Türkiye haritası: turkey-map-react (MIT), il bilgileri: memleketim-tr-cities (MIT). Bütün çizimler bu proje için hazırlanmıştır.
+İçerik, kamuya açık kaynaklardaki bilgiler esas alınarak sade Türkçeyle yeniden yazılmıştır. Tam liste uygulamadaki **Bu rehberin dayandığı kaynaklar** konusunda yer alır ve her güncellemede yenilenir (son güncelleme: 22 Kasım 2026).
+
+- **Genel hayatta kalma:** ABD Kara Kuvvetleri ATP 3-50.21, FM 21-76 ve FM 21-76-1; FEMA "Are You Ready?" ve Ready.gov
+- **Afet, sığınak ve nükleer tehdit:** AFAD, Sığınak Yönetmeliği, Nuclear War Survival Skills (Kearny, 1979), FDA ve CDC potasyum iyodür rehberleri
+- **İlk yardım ve sağlık:** Avrupa Resüsitasyon Konseyi (ERC) İlk Yardım Kılavuzları 2021 ve 2025, ILCOR değerlendirmeleri, Amerikan Kalp Derneği ve Amerikan Kızılhaçı İlk Yardım Kılavuzu (2024), Birleşik Krallık Resüsitasyon Konseyi anafilaksi kılavuzu, NHS ve Asthma + Lung UK, Dünya Sağlık Örgütü, Ulusal Zehir Danışma Merkezi (114)
+- **Su:** ABD Çevre Koruma Ajansı (EPA), Hacettepe Üniversitesi Halk Sağlığı Anabilim Dalı afet bilgi notu
+- **Çocuk köşesi:** Telif süresi dolmuş Grimm, Andersen, Perrault, Binbir Gece, Dede Korkut, Ezop ve Collodi eserleri; Keloğlan masalları ve Nasreddin Hoca fıkraları
+- **Harita:** turkey-map-react (MIT), memleketim-tr-cities (MIT). Bütün çizimler bu proje için hazırlanmıştır.
 
 ## Katkı ve hata bildirimi
 
@@ -106,7 +113,14 @@ This guide is for general information. It does not replace a doctor, vet, electr
 
 ## Sources
 
-Content is based on general information from public sources such as AFAD, FEMA and Ready.gov, the CDC, the World Health Organization (WHO) and the US FDA, rewritten in plain language. It was originally written in Turkish and translated into English. Türkiye map: turkey-map-react (MIT); province data: memleketim-tr-cities (MIT). All illustrations were made for this project.
+Content is based on information from public sources, rewritten in plain language. It was originally written in Turkish and translated into English. The full list is in the app's **Sources this guide is based on** article and is updated with every release (last updated: 22 November 2026).
+
+- **General survival:** US Army ATP 3-50.21, FM 21-76 and FM 21-76-1; FEMA "Are You Ready?" and Ready.gov
+- **Disasters, shelters and nuclear threats:** AFAD, Türkiye's Shelter Regulation, Nuclear War Survival Skills (Kearny, 1979), FDA and CDC potassium iodide guidance
+- **First aid and health:** European Resuscitation Council (ERC) First Aid Guidelines 2021 and 2025, ILCOR reviews, American Heart Association and American Red Cross First Aid Guidelines (2024), Resuscitation Council UK anaphylaxis guidance, NHS and Asthma + Lung UK, World Health Organization, National Poison Information Center of Türkiye (114)
+- **Water:** US Environmental Protection Agency (EPA), Hacettepe University Department of Public Health disaster note
+- **Kids' Corner:** public-domain works by the Brothers Grimm, Andersen, Perrault, the Arabian Nights, Dede Korkut, Aesop and Collodi; Keloğlan tales and Nasreddin Hodja stories
+- **Maps:** turkey-map-react (MIT), memleketim-tr-cities (MIT). All illustrations were made for this project.
 
 ## Contributing and reporting mistakes
 
