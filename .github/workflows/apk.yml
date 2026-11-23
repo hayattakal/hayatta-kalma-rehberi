@@ -40,7 +40,7 @@ jobs:
         working-directory: android
         run: |
           chmod +x gradlew
-          ./gradlew assembleDebug --no-daemon
+          ./gradlew assembleDebug bundleRelease --no-daemon
 
       - name: APK'yı yükle
         uses: actions/upload-artifact@v4
@@ -48,13 +48,13 @@ jobs:
           name: hayatta-kal-deneme-apk
           path: android/app/build/outputs/apk/debug/app-debug.apk
 
-      - name: APK'yı "apk" dalına koy (doğrudan indirme bağlantısı için)
+      - name: APK ve imzasız AAB'yi "apk" dalına koy (doğrudan indirme bağlantısı için)
         run: |
-          mkdir cikti && cp android/app/build/outputs/apk/debug/app-debug.apk cikti/hayatta-kal-deneme.apk
+          mkdir cikti && cp android/app/build/outputs/apk/debug/app-debug.apk cikti/hayatta-kal-deneme.apk && cp android/app/build/outputs/bundle/release/app-release.aab cikti/hayatta-kal-imzasiz.aab
           cd cikti
           git init -q -b apk
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
-          git add hayatta-kal-deneme.apk
+          git add hayatta-kal-deneme.apk hayatta-kal-imzasiz.aab
           git commit -qm "Deneme APK'sı (${GITHUB_SHA::7})"
           git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}" apk
